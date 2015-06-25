@@ -19,7 +19,17 @@ $ cordova plugin add https://github.com/sarahgoldman/cordova-monkeytalk-ios-plug
 	- Windows users: Move the MonkeyTalkIDE folder into your Program Files folder, then and double click on MonkeyTalk.exe to run
 	- Choose a location for your MonkeyTalk workspace (outside of Applications/Program Files)
 2. Create a new Project
-3. While the app is running in a simulator or device, connect to the app using the Connect menu
+3. Connect to the app
+	- Via Wi-Fi
+		- Start the app on the device
+		- Go to Settings > Wi-Fi on your device
+		- Click the blue info button for the network you have selected
+		- Find the IP Address, should be the first field listed under the DHCP tab
+		- In MonkeyTalk select iOS Device under the Connect menu
+		- Enter the IP address of the device in the MonkeyTalk IDE
+	- Via Simulator
+		- Start the app in the iOS Simulator
+		- In MonkeyTalk select iOS Simulator under the Connect menu
 4. File > New > Script
 	- Record script (MonkeyTalk > Record or red circle)
 	- Stop recording script (MonkeyTalk > Record or red circle)
