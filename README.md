@@ -30,7 +30,8 @@ $ cordova plugin add https://github.com/sarahgoldman/cordova-monkeytalk-ios-plug
 	- Via Simulator
 		- Start the app in the iOS Simulator
 		- In MonkeyTalk select iOS Simulator under the Connect menu
-4. File > New > Script
+4. Create a new test script
+	- Go to File > New > Script
 	- Record script (MonkeyTalk > Record or red circle)
 	- Stop recording script (MonkeyTalk > Record or red circle)
 	- Manually edit script if needed
