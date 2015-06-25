@@ -1,4 +1,4 @@
-#Setting up MonkeyTalk for iOS and Android
+#Setting up MonkeyTalk for iOS
 
 ### Installing MonkeyTalk agents on application 
  
