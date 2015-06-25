@@ -19,7 +19,7 @@ $ cordova plugin add https://github.com/sarahgoldman/cordova-monkeytalk-ios-plug
 	- Windows users: Move the MonkeyTalkIDE folder into your Program Files folder, then and double click on MonkeyTalk.exe to run
 	- Choose a location for your MonkeyTalk workspace (outside of Applications/Program Files)
 2. Create a new Project
-3. While the app is running in a simulator or device, connect to the app
+3. While the app is running in a simulator or device, connect to the app using the Connect menu
 4. File > New > Script
 	- Record script (MonkeyTalk > Record or red circle)
 	- Stop recording script (MonkeyTalk > Record or red circle)
