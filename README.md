@@ -14,12 +14,16 @@ $ cordova plugin add https://github.com/sarahgoldman/cordova-monkeytalk-ios-plug
 ### Testing with MonkeyTalk IDE
 
 1. Download MonkeyTalk IDE: [downloads page](https://www.cloudmonkeymobile.com/download/monkeytalk-community)
+	- Unzip the downloaded file
+	- Mac users: Move the MonkeyTalkIDE folder to your Applications folder, then double click on the MonkeyTalk app file inside
+	- Windows users: Move the MonkeyTalkIDE folder into your Program Files folder, then and double click on MonkeyTalk.exe to run
+	- Choose a location for your MonkeyTalk workspace (outside of Applications/Program Files)
 2. Create a new Project
 3. While the app is running in a simulator or device, connect to the app
 4. File > New > Script
-	- record script (MonkeyTalk > Record or red circle)
-	- stop recording script (MonkeyTalk > Record or red circle)
-	- manually edit script if needed
-	- use Component Tree if needed (Component Tree tab in bottom panel)
+	- Record script (MonkeyTalk > Record or red circle)
+	- Stop recording script (MonkeyTalk > Record or red circle)
+	- Manually edit script if needed
+	- Use Component Tree if needed (Component Tree tab in bottom panel)
 5. Play script (green triangle)
 6. Reports and screenshots are generated in folders inside the project
