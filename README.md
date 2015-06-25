@@ -13,7 +13,7 @@ $ cordova plugin add https://github.com/sarahgoldman/cordova-monkeytalk-ios-plug
 ***(Non-developers start here)***
 ### Testing with MonkeyTalk IDE
 
-1. Download MonkeyTalk IDE: [downloads page](https://www.cloudmonkeymobile.com/download/monkeytalk-community)
+1. Download and install MonkeyTalk IDE: [downloads page](https://www.cloudmonkeymobile.com/download/monkeytalk-community)
 	- Unzip the downloaded file
 	- Mac users: Move the MonkeyTalkIDE folder to your Applications folder, then double click on the MonkeyTalk app file inside
 	- Windows users: Move the MonkeyTalkIDE folder into your Program Files folder, then and double click on MonkeyTalk.exe to run
